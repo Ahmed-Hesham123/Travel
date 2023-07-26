@@ -1,6 +1,6 @@
-#Responsive Website Landing Page - With Background Video Slider
+Responsive Website Landing Page - With Background Video Slider
 
-#Project Specifications
+Project Specifications
 
 - Attractive UI With Background Video Slider
 - Use Functions to improve the Code and make it clear
